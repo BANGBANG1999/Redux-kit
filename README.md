@@ -1,8 +1,22 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Basic Redux Library
 
-Currently, two official plugins are available:
+## Overview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This is a very basic Redux library project that can be used as a reference for future Redux-based projects. Redux is a predictable state container for JavaScript applications and is often used with React to manage application state. This project serves as a minimal starting point to understand how Redux works and how to set it up in your projects.
+
+## Features
+
+- Minimal Redux setup.
+- Actions, reducers, and store configuration.
+- A sample Redux store with a basic counter example.
+
+## Getting Started
+
+To use this project as a reference, follow these steps:
+
+1. Clone the repository to your local machine:
+
+   git clone https://github.com/yourusername/basic-redux-library.git
+
